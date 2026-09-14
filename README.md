@@ -11,4 +11,4 @@ Software Developer | Construindo sistemas robustos, automações e aplicativos m
 * *Backend:* NestJS, Python, FastAPI, SpringBoot
 * *Infraestrutura & Automação:* Docker, RPA, Gerenciamento de Containers Linux
 * *Experiência Prática:* Migração e refatoração de sistemas, criação de ferramentas de gestão de projetos (Gráficos de Gantt) e desenvolvimento de APIs para automação.
-*
+
