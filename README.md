@@ -1,16 +1,14 @@
-## Hi there 👋
+*Olá, eu sou Nequita Farias 👋*
+Software Developer | Construindo sistemas robustos, automações e aplicativos móveis
 
-<!--
-**NEQUITA/NEQUITA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 *Desenvolvedora Full-stack & DevOps*
+🎓 *Formação:*
+* Bacharelado em Ciência da Computação
+* Aprofundamento contínuo em Arquitetura de Computadores e Algoritmos
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ *Habilidades e Tecnologias:*
+* *Frontend & Mobile:* Next.js, React Native, Flutter
+* *Backend:* NestJS, Python, FastAPI, SpringBoot
+* *Infraestrutura & Automação:* Docker, RPA, Gerenciamento de Containers Linux
+* *Experiência Prática:* Migração e refatoração de sistemas, criação de ferramentas de gestão de projetos (Gráficos de Gantt) e desenvolvimento de APIs para automação.
+*
